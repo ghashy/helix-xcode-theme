@@ -86,6 +86,7 @@
 "diagnostic.warning"= { underline = { color = "yellow", style="curl"} }
 
 [palette]
+purp = "#945bc3"
 pink = "#EE81B0"
 orange_yellow = "#F3A55F"
 orange_red = "#EF8876"
